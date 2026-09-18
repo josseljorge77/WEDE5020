@@ -40,10 +40,9 @@ Facilitate the search for games by categories
 Establish professional digital presence
 
 KPIs:
-Número de visitas mensais  
-Taxa de cliques em produtos  
-Tempo médio de navegação 
-
+Number of monthly visits
+Product click-through rate
+Average browsing time
 -------------------------------------------------------------------------------------------------------------------
 
 Current Website Analysis
